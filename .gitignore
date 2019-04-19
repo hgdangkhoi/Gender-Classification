@@ -9,3 +9,6 @@
 #ignore model save file
 *.hdf5
 /save/*
+
+#ignore augmented folder
+/augmented/*
